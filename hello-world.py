@@ -1,0 +1,1 @@
+#bu bir açıklama satırıdır.
